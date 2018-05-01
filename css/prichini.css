@@ -1,0 +1,11 @@
+.info{
+  height: 100%;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.text{
+  height: 100%;
+  font-size: 22px;
+  margin-right: 40px;
+  margin-left: 70px;
+}
