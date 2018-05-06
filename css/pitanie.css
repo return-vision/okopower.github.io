@@ -1,0 +1,15 @@
+.title{
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+  padding: 15px;
+  width: 90%;
+  margin:  auto;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+}
+.content{
+  width: 90%;
+  margin: 15px auto;
+  font-size: 20px;
+}
